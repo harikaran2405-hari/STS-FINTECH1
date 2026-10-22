@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STS Fintech - Company Attendance Management System
 
 A full-stack, production-grade **Company Attendance Management System** for **STS Fintech**, built with **React.js + Vite + Tailwind CSS** on the frontend, and **Python Flask + SQLite (PostgreSQL-ready)** on the backend. Designed specifically for company manager **Mahesh Kumar** to manage workforce departments, record daily attendance in Indian Standard Time (IST), execute authorized manual corrections with audit logging, and generate attendance reports with CSV export.
@@ -165,3 +166,6 @@ npm run dev
 python -m backend.test_suite
 ```
 *Executes all unit and integration tests covering auth, worker CRUD, department assignments, duplicate prevention, attendance guards, and audit logging.*
+=======
+# STS-FINTECH
+>>>>>>> fc0392a9d734d2c950fe13ff91eba51287afdda0
